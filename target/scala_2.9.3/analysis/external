@@ -1,0 +1,5 @@
+#External Dependencies
+#Wed Sep 25 15:47:48 CST 2013
+/home/hadoop/amplab/spark-0.7.2/codes/SimpleJob/project/boot/scala-2.9.3/lib/scala-library.jar=src/main/scala/SimpleJob.scala
+/home/hadoop/amplab/spark-0.7.2/codes/SimpleJob/lib/spark-core-assembly-0.7.2.jar=src/main/scala/SimpleJob.scala
+/usr/java/latest/jre/lib/rt.jar=src/main/scala/SimpleJob.scala
